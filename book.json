@@ -1,9 +1,8 @@
-
-    "plugins": [
-        "disqus"
-    ],
+{
+    "plugins": ["disqus"],
     "pluginsConfig": {
-        "shortName": "thisisis"
-    }
+        "disqus": {
+            "shortName": "thisisis"
+        }
+    }  
 }
-
